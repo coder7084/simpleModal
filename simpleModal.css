@@ -1,0 +1,50 @@
+/*
+ * jQuery simpleModal Plugin
+ *
+ * Copyright 2013, Teena Thomas
+ * 
+ */
+
+#modal-div {
+ height: 0;
+}
+
+#second {     
+  border-radius: 15px;  
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15x;     
+  padding: 15px ;   
+  height: 0;  
+}
+
+.text_field {
+ display: none;
+ width: 360px;
+}
+
+#second textarea{
+ display: none; 
+}
+
+#second label{
+ display: none;
+ color: #FFFFFF;
+ padding-right: 10px;
+ font-family: 'Alegreya', serif; 
+ font-size: 1.2em;
+}
+
+#email_button { 
+ margin-left: 150px; 
+ display: none; 
+ margin-top: 20px; 
+}
+
+#close {
+ display: none;
+ margin-left: 530px;
+}
+
+#first {
+ margin: 10px;
+}
